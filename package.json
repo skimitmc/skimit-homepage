@@ -15,7 +15,7 @@
     "core-js": "2.6.11",
     "scripts": "^0.1.0",
     "vuepress-theme-antdocs": "^1.2.2",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "back-to-top": "^0.0.1"
   },
   "scripts": {
