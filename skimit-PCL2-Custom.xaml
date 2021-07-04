@@ -1,0 +1,39 @@
+<!-- skimit服务器 PCL2启动器自定义主页 -->
+<local:MyCard Title="客户端部分按键设置" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="打开聊天栏：Enter" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="放大镜：C（放大时用鼠标滚轮可以调整放大倍数）" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="灵魂出窍：O" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="左键连点：左Alt+L" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="右键连点：左Alt+R" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="左键长按（AFK）：右Alt+L" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="右键长按（AFK）：右Alt+R" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="伪潜行开关：左Alt+S" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="自动切换工具开关：左Alt+T" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="轻松放置开关：左Alt+P" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="执行投影操作：左Alt+O" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="标记刷怪区域（亮度≤7的实心方块）：F7" />
+    </StackPanel>
+</local:MyCard>
+<local:MyCard Title="服务器公告" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[安全]登录插件已更换, 需重新注册!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[MOD]WorldEdit和BBOR暂不支持!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[消息]在服中发消息到群请在前面加“-”" />
+    </StackPanel>
+</local:MyCard>
