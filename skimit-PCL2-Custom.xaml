@@ -29,8 +29,12 @@
                    Text="标记刷怪区域（亮度≤7的实心方块）：F7" />
     </StackPanel>
 </local:MyCard>
-<local:MyCard Title="服务器公告（2021-07-12更新）" Margin="0,0,0,15">
+<local:MyCard Title="服务器公告（2021-07-14更新）" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[网站]网页地图迁移到bluemap.skimit.cn:1654!" />
+        <local:MyTextButton Margin="0,8,0,0" HorizontalAlignment="Center"
+                   Text="点击打开网页地图" EventType="打开网页" EventData="http://bluemap.skimit.cn:1654/" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
                    Text="[存档]下界出现一些问题, 暂时关闭!" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
