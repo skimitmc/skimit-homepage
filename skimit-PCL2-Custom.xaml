@@ -40,7 +40,7 @@
         <local:MyTextButton Margin="0,8,0,0" HorizontalAlignment="Center"
                    Text="点击打开Dynamp网页地图" EventType="打开网页" EventData="http://dynmap.skimit.cn:1123/" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[存档]下界出现一些问题, 暂时关闭!" />
+                   Text="[子服]现在可以正常进入镜像服!" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
                    Text="[存档]已删除部分区块, 如有建造消失请联系服主!" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
