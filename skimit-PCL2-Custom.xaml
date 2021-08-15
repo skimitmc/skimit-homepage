@@ -1,5 +1,5 @@
 <!-- skimit服务器 PCL2启动器自定义主页 -->
-<local:MyCard Title="客户端部分按键设置（对应客户端版本1.17.1.1~756.0.3）" Margin="0,0,0,15">
+<local:MyCard Title="客户端部分按键设置（对应客户端版本1.17.1.1~756.0.4）" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                    Text="打开聊天栏：Enter" />
