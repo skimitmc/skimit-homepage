@@ -1,8 +1,10 @@
 <!-- skimit服务器 PCL2启动器自定义主页 -->
-<local:MyCard Title="客户端部分按键设置（对应客户端版本1.17.1.1）" Margin="0,0,0,15">
+<local:MyCard Title="客户端部分按键设置（对应客户端版本1.17.1.1~756.0.3）" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                    Text="打开聊天栏：Enter" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="切换复述功能设置：Ctrl+B" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                    Text="放大镜：C（放大时用鼠标滚轮可以调整放大倍数）" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
@@ -48,6 +50,8 @@
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
                    Text="[MOD]WorldEdit和BBOR暂不支持!" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[消息]在服中发消息到群请在前面加“-”" />
+                   Text="[消息]在服中发消息到群请在前面加“.”" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[地址]近期服务器地址将有较大改动，请关注公告!" />
     </StackPanel>
 </local:MyCard>
