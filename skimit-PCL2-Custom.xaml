@@ -1,4 +1,28 @@
 <!-- skimit服务器 PCL2启动器自定义主页 -->
+<local:MyCard Title="服务器公告（2021-08-17更新）" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[网站]新增Dynamp网页地图: dynmap.skimit.cn:1123!" />
+        <local:MyTextButton Margin="0,8,0,0" HorizontalAlignment="Center"
+                   Text="点击打开Dynamp网页地图" EventType="打开网页" EventData="http://dynmap.skimit.cn:1123/" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[网站]Bluemap网页地图迁移到bluemap.skimit.cn:1654!" />
+        <local:MyTextButton Margin="0,8,0,0" HorizontalAlignment="Center"
+                   Text="点击打开Bluemap网页地图" EventType="打开网页" EventData="http://bluemap.skimit.cn:1654/" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[子服]现在可以正常进入镜像服!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[存档]已删除部分区块, 如有建造消失请联系服主!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[安全]登录插件已更换, 需重新注册!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[MOD]WorldEdit和BBOR暂不支持!" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[消息]在服中发消息到群请在前面加“.”" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
+                   Text="[地址]近期服务器地址将有较大改动，请关注公告!" />
+    </StackPanel>
+</local:MyCard>
 <local:MyCard Title="客户端部分按键设置（对应客户端版本1.17.1.1~756.0.4）" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
@@ -29,29 +53,5 @@
                    Text="执行投影操作：左Alt+O" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
                    Text="标记刷怪区域（亮度≤7的实心方块）：F7" />
-    </StackPanel>
-</local:MyCard>
-<local:MyCard Title="服务器公告（2021-08-15更新）" Margin="0,0,0,15">
-    <StackPanel Margin="25,40,23,15">
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[网站]Bluemap网页地图迁移到bluemap.skimit.cn:1654!" />
-        <local:MyTextButton Margin="0,8,0,0" HorizontalAlignment="Center"
-                   Text="点击打开Bluemap网页地图" EventType="打开网页" EventData="http://bluemap.skimit.cn:1654/" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[网站]新增Dynamp网页地图: dynmap.skimit.cn:1123!" />
-        <local:MyTextButton Margin="0,8,0,0" HorizontalAlignment="Center"
-                   Text="点击打开Dynamp网页地图" EventType="打开网页" EventData="http://dynmap.skimit.cn:1123/" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[子服]现在可以正常进入镜像服!" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[存档]已删除部分区块, 如有建造消失请联系服主!" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[安全]登录插件已更换, 需重新注册!" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[MOD]WorldEdit和BBOR暂不支持!" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[消息]在服中发消息到群请在前面加“.”" />
-        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
-                   Text="[地址]近期服务器地址将有较大改动，请关注公告!" />
     </StackPanel>
 </local:MyCard>
