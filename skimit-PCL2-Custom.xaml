@@ -3,11 +3,11 @@
     <StackPanel Margin="25,40,23,15">
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
                    Text="[规定][2021-09-02]服务器规定已更新!" />
-        <local:RuleBtn Margin="0,8,0,0" HorizontalAlignment="Center"
+        <local:MyButton Margin="0,8,0,0" HorizontalAlignment="Center"
                    Text="点击打开服务器规定" EventType="打开网页" EventData="https://skimit.cn/rules/" />
-        <local:DynmapBtn Margin="0,8,0,0" HorizontalAlignment="Center"
+        <local:MyButton Margin="0,8,0,0" HorizontalAlignment="Center"
                    Text="点击打开Dynamp网页地图" EventType="打开网页" EventData="http://dynmap.skimit.cn:1123/" />
-        <local:BluemapBtn Margin="0,8,0,0" HorizontalAlignment="Center"
+        <local:MyButton Margin="0,8,0,0" HorizontalAlignment="Center"
                    Text="点击打开Bluemap网页地图" EventType="打开网页" EventData="http://bluemap.skimit.cn:1654/" />
         <TextBlock TextWrapping="Wrap" Margin="0,0,0,4" Foreground="#8C7721"
                    Text="[消息]在服中发消息到群请在前面加“.”" />
