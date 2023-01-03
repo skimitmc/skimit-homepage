@@ -1,1 +1,0 @@
-import{_ as s,V as n,W as c,X as e,Y as t}from"./framework-2a0a7138.js";const o={},_=e("p",null,[t("skimit服务器中机器坐标，以及使用方式和注意事项： "),e("s",null,"放心，这个人是个懒狗，更新没那么快"),t(" （正在更新）")],-1),a=[_];function l(r,i){return n(),c("div",null,a)}const f=s(o,[["render",l],["__file","index.html.vue"]]);export{f as default};
