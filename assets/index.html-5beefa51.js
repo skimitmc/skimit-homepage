@@ -1,4 +1,4 @@
-import{_ as d,V as e,W as n,a0 as t,X as l,$ as a,Z as s}from"./framework-dc4c2c51.js";const i={},g=l("h1",{id:"节点列表",tabindex:"-1"},[l("a",{class:"header-anchor",href:"#节点列表","aria-hidden":"true"},"#"),a(" 节点列表")],-1),r=s(`<table id="normal"><tr><th rowspan="2">节点名</th><th rowspan="2">JE</th><th colspan="2">ASN</th><th rowspan="2">国内线路</th><th rowspan="2">预计的更改或移除时间</th></tr><tr><th>IPv4</th><th>IPv6</th></tr><tr><td>临沂教育网</td><td>lye.play.skimit.net</td><td>教育网 (AS4538)</td><td>-</td><td>教育网</td><td>未计划</td></tr><tr><td>济宁移动</td><td>jnm.play.skimit.net</td><td>山东移动 (AS24444)</td><td>-</td><td>中国移动</td><td>2024-06-19T02:05:00+08:00</td></tr><tr><td>洛杉矶Multacom</td><td>lam.play.skimit.net</td><td colspan="2">Multacom (AS35916)</td><td></td><td>2023-11-14</td></tr><!--
+import{_ as d,V as e,W as n,a0 as t,X as l,$ as a,Z as i}from"./framework-dc4c2c51.js";const s={},g=l("h1",{id:"节点列表",tabindex:"-1"},[l("a",{class:"header-anchor",href:"#节点列表","aria-hidden":"true"},"#"),a(" 节点列表")],-1),r=i(`<table id="normal"><tr><th rowspan="2">节点名</th><th rowspan="2">JE</th><th colspan="2">ASN</th><th rowspan="2">国内线路</th><th rowspan="2">预计的更改或移除时间</th></tr><tr><th>IPv4</th><th>IPv6</th></tr><tr><td>临沂教育网</td><td>lye.play.skimit.net</td><td>教育网 (AS4538)</td><td>-</td><td>教育网</td><td>未计划</td></tr><tr><td>枣庄BGP</td><td>zzs.play.skimit.net</td><td>山东亿信通 (AS139180)</td><td>-</td><td>中国电信/中国移动/中国联通</td><td>未计划</td></tr><tr><td>济宁移动</td><td>jnm.play.skimit.net</td><td>山东移动 (AS24444)</td><td>-</td><td>中国移动</td><td>2024-06-19T02:05:00+08:00</td></tr><tr><td>洛杉矶Multacom</td><td>lam.play.skimit.net</td><td colspan="2">Multacom (AS35916)</td><td></td><td>2023-11-14</td></tr><!--
     还没上线的
     &lt;tr&gt;
         &lt;td&gt;义乌电信&lt;/td&gt;
@@ -7,14 +7,6 @@ import{_ as d,V as e,W as n,a0 as t,X as l,$ as a,Z as s}from"./framework-dc4c2c
         &lt;td&gt;-&lt;/td&gt;
         &lt;td&gt;中国电信&lt;/td&gt;
         &lt;td&gt;2023-08&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;枣庄BGP&lt;/td&gt;
-        &lt;td&gt;zzs.play.skimit.net&lt;/td&gt;
-        &lt;td&gt;山东亿信通 (AS139180)&lt;/td&gt;
-        &lt;td&gt;-&lt;/td&gt;
-        &lt;td&gt;中国电信/中国移动/中国联通&lt;/td&gt;
-        &lt;td&gt;未计划&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;枣庄电信&lt;/td&gt;
@@ -40,10 +32,18 @@ import{_ as d,V as e,W as n,a0 as t,X as l,$ as a,Z as s}from"./framework-dc4c2c
         &lt;td&gt;2024-05-29T19:58:09+08:00&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td&gt;香港CLD（建设中）&lt;/td&gt;
+        &lt;td&gt;香港CLD&lt;/td&gt;
         &lt;td&gt;hkd.play.skimit.net&lt;/td&gt;
         &lt;td&gt;Cloudie (AS55933)&lt;/td&gt;
         &lt;td&gt;&lt;p&gt;Cloudie (AS55933)&lt;/p&gt;&lt;p&gt;Huricane Electric (AS6939)&lt;/p&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;/td&gt;
+        &lt;td&gt;2025-05-02&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;东京BGP&lt;/td&gt;
+        &lt;td&gt;tyd.play.skimit.net&lt;/td&gt;
+        &lt;td&gt;DigitalVirt (AS11161)&lt;/td&gt;
+        &lt;td&gt;Huricane Electric (AS6939)&lt;/td&gt;
         &lt;td&gt;&lt;/td&gt;
         &lt;td&gt;2025-05-02&lt;/td&gt;
     &lt;/tr&gt;
@@ -89,4 +89,4 @@ import{_ as d,V as e,W as n,a0 as t,X as l,$ as a,Z as s}from"./framework-dc4c2c
         <td>raknet;qd-1.skimit.net</td>
     </tr>
 </table>
-`)])}const b=d(i,[["render",c],["__file","index.html.vue"]]);export{b as default};
+`)])}const b=d(s,[["render",c],["__file","index.html.vue"]]);export{b as default};
