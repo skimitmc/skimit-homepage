@@ -25,5 +25,4 @@ author: Glucy2
 
 ## TODO
 
-- [ ] 基岩版域名
 - [ ] 基于 WebSocket 的连接方式
