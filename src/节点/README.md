@@ -7,11 +7,10 @@ author: Glucy2
 |----------------|----------------------:|:----:|:----:|:--------------------------------------------------------------------:|:---------------------------------:|-------------------------------|
 | 自动选择       |     `play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  |                 ❌                | 目前仅会选择中国大陆节点      |
 | 济宁移动       | `jnm.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `jnm.be.play.skimit.net`, `19132` |                               |
-| 南京移动       | `nju.play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  | `nju.be.play.skimit.net`, `19132` |                               |
+| 南京联通       | `nju.play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  | `nju.be.play.skimit.net`, `19132` |                               |
 | 临沂教育网     | `lye.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `lye.be.play.skimit.net`, `19132` |                               |
 | 枣庄多线       | `zzs.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  |                 ❌                |                               |
 | 宿迁多线       | `sqm.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `sqm.be.play.skimit.net`, `39132` |                               |
-| 宿迁电信       | `sqq.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `sqq.be.play.skimit.net`, `38647` | 2023-08-27T12:18:36+08:00下线 |
 | 香港腾讯云     | `hkt.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `hkt.be.play.skimit.net`, `19132` |                               |
 | 香港CLD        | `hkd.play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  | `hkd.be.play.skimit.net`, `19132` | 可能2025-05-02下线            |
 | 东京多线       | `tyd.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `tyd.be.play.skimit.net`, `19132` | 可能2026-06-11下线            |
