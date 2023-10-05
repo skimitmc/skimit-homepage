@@ -7,7 +7,7 @@ author: Glucy2
 |----------------|----------------------:|:----:|:----:|:--------------------------------------------------------------------:|:---------------------------------:|-------------------------------|
 | 自动选择       |     `play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  |                 ❌                | 目前仅会选择中国大陆节点      |
 | 济宁移动       | `jnm.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `jnm.be.play.skimit.net`, `19132` |                               |
-<!--| 南京联通       | `nju.play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  | `nju.be.play.skimit.net`, `19132` |                               |-->
+| 南京联通       | `nju.play.skimit.net` |  ✅  |  ✅  |                                  ✅                                  | `nju.be.play.skimit.net`, `19132` |                               |
 | 临沂教育网     | `lye.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `lye.be.play.skimit.net`, `19132` |                               |
 | 枣庄多线       | `zzs.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  |                 ❌                |                               |
 | 宿迁多线       | `sqm.play.skimit.net` |  ✅  |  ❌  |                                  ✅                                  | `sqm.be.play.skimit.net`, `39132` |                               |
