@@ -118,7 +118,7 @@ features:
 #    link: https://vuepress-theme-hope.github.io/v2/guide/feature/
 
 copyright: false
-footer: <p>使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | CC-BY-SA-4.0 协议, 版权所有 © 2019-present skimit</p><p><a href="//beian.miit.gov.cn">苏ICP备2022031552号-2</a></p><p><span class="upyun-text">本网站由</span><a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral"><img src="/upyun_logo.png" width="80" class="upyun-logo"></a><span class="upyun-text">提供CDN加速服务</span></p>
+footer: <p>使用 <a href="https://vuepress-theme-hope.github.io/v2/" target="_blank">VuePress Theme Hope</a> 主题 | CC-BY-SA-4.0 协议, 版权所有 © 2019-present skimit</p><p><a href="//beian.miit.gov.cn">苏ICP备2022031552号-2</a></p>
 ---
 # <div align="center">skimit服务器</div>
 
