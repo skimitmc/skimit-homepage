@@ -1,46 +1,49 @@
-
-name: 部署文档
+name: Build and Deploy
 
 on:
   push:
     branches:
-      # 确保这是你正在使用的分支名称
+      # make sure this is the branch you are using
       - v3
+
+permissions:
+  contents: write
 
 jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          submodules: true
+          # if your docs needs submodules, uncomment the following line
+          # submodules: true
 
-      - name: 安装 pnpm
+      - name: Install pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: 7
           run_install: true
+          version: 8
 
 
-      - name: 设置 Node.js
-        uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 20
           cache: pnpm
 
 
-      - name: 构建文档
+      - name: Build Docs
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           pnpm run docs:build
-          > src/.vuepress/dist/.nojekyll
+          > .vuepress/dist/.nojekyll
 
-      - name: 部署文档
+      - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # 这是文档部署到的分支名称
+          # This is the branch where the docs are deployed to
           branch: gh-pages
-          folder: src/.vuepress/dist
+          folder: .vuepress/dist

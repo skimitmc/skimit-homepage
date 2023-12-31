@@ -1,21 +1,20 @@
 {
   "name": "skimit-homepage",
-  "version": "3.0.0",
-  "description": "Chinese documents of skimit",
-  "repository": "https://github.com/skimitmc/skimit-homepage",
+  "version": "3.1.0",
+  "description": "skimit: A Minecraft survival+ server",
   "license": "CC-BY-SA-4.0",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build src",
-    "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src"
+    "docs:build": "vuepress build .",
+    "docs:clean-dev": "vuepress dev . --clean-cache",
+    "docs:dev": "vuepress dev .",
+    "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.60",
-    "@vuepress/plugin-git": "2.0.0-beta.60",
-    "sass": "^1.57.1",
-    "vue": "^3.2.45",
-    "vuepress": "2.0.0-beta.60",
-    "vuepress-theme-hope": "2.0.0-beta.149"
+    "@vuepress/client": "2.0.0-rc.0",
+    "katex": "^0.16.9",
+    "vue": "^3.3.12",
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-hope": "2.0.0-rc.7"
   }
 }
