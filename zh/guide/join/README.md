@@ -21,6 +21,7 @@ icon: right-to-bracket
 | 江苏宿迁电信     | `sqt.play.skimit.net` |         36         |  ✅  |  ❌  |     ✅    |         `cn-js-sq-1.skimit.net`, `19132`         |                                         |
 | 山东枣庄多线     | `zzs.play.skimit.net` |         47         |  ✅  |  ❌  |     ✅    |                        ❌                        |                                         |
 | 上海多线         | `shq.play.skimit.net` |         27         |  ✅  |  ✅  |     ✅    |           `cn-sh-0.skimit.net`, `19132`          | 容量很小；2024-05-29T19:58:09+08:00下线 |
+| 香港B            | `hka.play.skimit.net` |        48~50       |  ✅  |  ✅  |     ✅    |           `cn-hk-1.skimit.net`, `19132`          |                                         |
 | 香港CLD          | `hkd.play.skimit.net` |        57~70       |  ✅  |  ✅  |     ✅    |           `cn-hk-0.skimit.net`, `19132`          | 可能2025-05-02下线                      |
 | 东京DV           | `tyd.play.skimit.net` |   50~58（备线60）  |  ✅  |  ❌  |     ✅    |   `jp-13-0.skimit.net`, `19135`（备用 `19134`）  | 可能2026-06-26下线                      |
 | 东京AZ           | `tya.play.skimit.net` |        50~59       |  ✅  |  ✅  |     ✅    |           `jp-13-1.skimit.net`, `19132`          |                                         |
