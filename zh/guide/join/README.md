@@ -12,6 +12,7 @@ icon: right-to-bracket
 | ~~自动~~智障选择 |     `play.skimit.net` |          -         |  ✅  |  ✅  |     ✅    |                        ❌                        |                                         |
 | 山东济宁移动     | `jnm.play.skimit.net` |         12         |  ✅  |  ❌  |     ✅    |         `cn-sd-jn-0.skimit.net`, `19132`         |                                         |
 | 江苏南京联通     | `nju.play.skimit.net` |         24         |  ✅  |  ✅  |     ✅    |         `cn-js-nj-0.skimit.net`, `19132`         |                                         |
+| 上海移动         | `shm.play.skimit.net` |        20~21       |  ✅  |  ❌  |     ✅    |           `cn-sh-1.skimit.net`, `19132`          |                                         |
 | 广东广州移动     | `gzm.play.skimit.net` |         46         |  ✅  |  ✅  |     ✅    |         `cn-gd-gz-0.skimit.net`, `29132`         | IPv4 阻断中国大陆以外连接               |
 | 广东中山联通     | `zsu.play.skimit.net` |         45         |  ✅  |  ❌  |     ✅    |    `cn-gd-zs-0.skimit.net`, `61418` 或 `62173`   |                                         |
 | 浙江宁波电信     | `nbt.play.skimit.net` |    33（备线58）    |  ✅  |  ❌  |     ✅    | `cn-zj-nb-0.skimit.net`, `19133`（备用 `19132`） |                                         |
@@ -21,8 +22,8 @@ icon: right-to-bracket
 | 江苏宿迁电信     | `sqt.play.skimit.net` |         36         |  ✅  |  ❌  |     ✅    |         `cn-js-sq-1.skimit.net`, `19132`         |                                         |
 | 山东枣庄多线     | `zzs.play.skimit.net` |         47         |  ✅  |  ❌  |     ✅    |                        ❌                        |                                         |
 | 上海多线         | `shq.play.skimit.net` |         27         |  ✅  |  ✅  |     ✅    |           `cn-sh-0.skimit.net`, `19132`          | 容量很小；2024-05-29T19:58:09+08:00下线 |
-| 香港B            | `hka.play.skimit.net` |        48~50       |  ✅  |  ✅  |     ✅    |           `cn-hk-1.skimit.net`, `19132`          |                                         |
-| 香港CLD          | `hkd.play.skimit.net` |        57~70       |  ✅  |  ✅  |     ✅    |           `cn-hk-0.skimit.net`, `19132`          | 可能2025-05-02下线                      |
+| 香港B            | `hka.play.skimit.net` |        47~49       |  ✅  |  ✅  |     ✅    |           `cn-hk-1.skimit.net`, `19132`          |                                         |
+| 香港CLD          | `hkd.play.skimit.net` |        59~78       |  ✅  |  ✅  |     ✅    |           `cn-hk-0.skimit.net`, `19132`          | 可能2025-05-02下线                      |
 | 东京DV           | `tyd.play.skimit.net` |   50~58（备线60）  |  ✅  |  ❌  |     ✅    |   `jp-13-0.skimit.net`, `19135`（备用 `19134`）  | 可能2026-06-26下线                      |
 | 东京AZ           | `tya.play.skimit.net` |        50~59       |  ✅  |  ✅  |     ✅    |           `jp-13-1.skimit.net`, `19132`          |                                         |
 | 台北UC           | `tpu.play.skimit.net` |   81（备线80~84）  |  ✅  |  ❌  |     ✅    |   `tw-tp-0.skimit.net`, `19134`（备用 `19133`）  | 2024-07-01T00:13:56+08:00下线           |
