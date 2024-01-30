@@ -15,7 +15,7 @@ icon: right-to-bracket
 | 上海移动         | `shm.play.skimit.net` |        20~21       |  ✅  |  ❌  |     ✅    |           `cn-sh-1.skimit.net`, `19132`          |                                         |
 | 广东广州移动     | `gzm.play.skimit.net` |         46         |  ✅  |  ✅  |     ✅    |         `cn-gd-gz-0.skimit.net`, `29132`         | IPv4 阻断中国大陆以外连接               |
 | 广东中山联通     | `zsu.play.skimit.net` |         45         |  ✅  |  ❌  |     ✅    |    `cn-gd-zs-0.skimit.net`, `61418` 或 `62173`   |                                         |
-| 浙江宁波电信     | `nbt.play.skimit.net` |    33（备线58）    |  ✅  |  ❌  |     ✅    | `cn-zj-nb-0.skimit.net`, `19133`（备用 `19132`） |                                         |
+| 浙江宁波电信     | `nbt.play.skimit.net` |         58         |  ✅  |  ✅  |     ✅    | `cn-zj-nb-0.skimit.net`, `19133`（备用 `19132`） |                                         |
 | 北京联通         | `bju.play.skimit.net` |        17~24       |  ✅  |  ❌  |     ✅    |           `cn-bj-0.skimit.net`, `59132`          |                                         |
 | 山东临沂教育网   | `lye.play.skimit.net` |          -         |  ✅  |  ❌  |     ✅    |         `cn-sd-ly-0.skimit.net`, `19132`         |                                         |
 | 江苏宿迁多线     | `sqm.play.skimit.net` |         38         |  ✅  |  ❌  |     ✅    |         `cn-js-sq-0.skimit.net`, `29132`         | 阻断中国大陆以外连接                    |
