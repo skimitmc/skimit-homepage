@@ -11,7 +11,7 @@ icon: right-to-bracket
 |------------------|----------------------:|:------------------:|:----:|:----:|:---------:|:------------------------------------------------:|-----------------------------------------|
 | ~~自动~~智障选择 |     `play.skimit.net` |          -         |  ✅  |  ✅  |     ✅    |                        ❌                        |                                         |
 | 江苏南京联通     | `nju.play.skimit.net` |         24         |  ✅  |  ✅  |     ✅    |         `cn-js-nj-0.skimit.net`, `19132`         |                                         |
-| 江苏南京移动     | `njm.play.skimit.net` |         24         |  ✅  |  ✅  |     ✅    |         `cn-js-nj-1.skimit.net`, `19132`         |                                         |
+| 江苏南京移动     | `njm.play.skimit.net` |         24         |  ❌  |  ✅  |     ✅    |         `cn-js-nj-1.skimit.net`, `19132`         |                                         |
 | 山东济宁移动     | `jnm.play.skimit.net` |         12         |  ✅  |  ❌  |     ✅    |         `cn-sd-jn-0.skimit.net`, `19132`         |                                         |
 | 广东广州移动     | `gzm.play.skimit.net` |         46         |  ✅  |  ✅  |     ✅    |         `cn-gd-gz-0.skimit.net`, `29132`         | IPv4 阻断中国大陆以外连接               |
 | 广东中山联通     | `zsu.play.skimit.net` |         45         |  ✅  |  ❌  |     ✅    |    `cn-gd-zs-0.skimit.net`, `61418` 或 `62173`   |                                         |
