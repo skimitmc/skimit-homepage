@@ -10,9 +10,9 @@ icon: right-to-bracket
 | 节点名           |              连接地址 | 隧道大致延迟（ms） | IPv4 | IPv6 | Raknetify |               基岩版（地址，端口）               | 备注                                    |
 |------------------|----------------------:|:------------------:|:----:|:----:|:---------:|:------------------------------------------------:|-----------------------------------------|
 | ~~自动~~智障选择 |     `play.skimit.net` |          -         |  ✅  |  ✅  |     ✅    |                        ❌                        |                                         |
-| 山东济宁移动     | `jnm.play.skimit.net` |         12         |  ✅  |  ❌  |     ✅    |         `cn-sd-jn-0.skimit.net`, `19132`         |                                         |
 | 江苏南京联通     | `nju.play.skimit.net` |         24         |  ✅  |  ✅  |     ✅    |         `cn-js-nj-0.skimit.net`, `19132`         |                                         |
-| 上海移动         | `shm.play.skimit.net` |        20~21       |  ✅  |  ❌  |     ✅    |           `cn-sh-1.skimit.net`, `19132`          |                                         |
+| 江苏南京移动     | `njm.play.skimit.net` |         24         |  ✅  |  ✅  |     ✅    |         `cn-js-nj-1.skimit.net`, `19132`         |                                         |
+| 山东济宁移动     | `jnm.play.skimit.net` |         12         |  ✅  |  ❌  |     ✅    |         `cn-sd-jn-0.skimit.net`, `19132`         |                                         |
 | 广东广州移动     | `gzm.play.skimit.net` |         46         |  ✅  |  ✅  |     ✅    |         `cn-gd-gz-0.skimit.net`, `29132`         | IPv4 阻断中国大陆以外连接               |
 | 广东中山联通     | `zsu.play.skimit.net` |         45         |  ✅  |  ❌  |     ✅    |    `cn-gd-zs-0.skimit.net`, `61418` 或 `62173`   |                                         |
 | 浙江宁波电信     | `nbt.play.skimit.net` |         58         |  ✅  |  ✅  |     ✅    | `cn-zj-nb-0.skimit.net`, `19133`（备用 `19132`） |                                         |
